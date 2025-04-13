@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 📁 Feel free to browse through my repositories for a closer look at my projects and collaborations.
+- 📁 Feel free to browse through my repositories for a closer look at my projects.
 - 💬 LinkedIn **https://www.linkedin.com/in/gowtham-kumar-gidijala-sainaga/**
 
 <h3 align="left">Languages and Tools:</h3>
